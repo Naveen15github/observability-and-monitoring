@@ -1,5 +1,5 @@
 
-# Prometheus Fundamentals — Phase 1
+# Prometheus Fundamentals - Phase 1
 
 ## Introduction
 
