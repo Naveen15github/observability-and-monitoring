@@ -1,4 +1,4 @@
-# Prometheus Fundamentals — Monitoring & Observability Lab
+# Prometheus Fundamentals 
 
 A hands-on infrastructure monitoring project using **Prometheus, Grafana, Node Exporter, Docker, Docker Compose, and AWS EC2**.
 
