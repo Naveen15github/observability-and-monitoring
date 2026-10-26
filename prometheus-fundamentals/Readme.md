@@ -118,42 +118,34 @@ The current dashboard contains eight panels.
 
 ## Screenshots
 
-### 1. Grafana Monitoring Dashboard
+## Screenshots
 
-![Grafana Monitoring Dashboard](https://raw.githubusercontent.com/Naveen15github/observability-and-monitoring/2116efe6540dfa12b7c56c79b8a15af762a987ce/prometheus-fundamentals/images/Screenshot%20(688).png)
+### 1. Grafana Monitoring Dashboard
+![Grafana Monitoring Dashboard](./images/Screenshot%20(688).png)
 
 ### 2. AWS Systems Manager Setup
-
-![AWS Systems Manager Setup](https://raw.githubusercontent.com/Naveen15github/observability-and-monitoring/2116efe6540dfa12b7c56c79b8a15af762a987ce/prometheus-fundamentals/images/Screenshot%20(689).png)
+![AWS Systems Manager Setup](./images/Screenshot%20(689).png)
 
 ### 3. Prometheus Container Logs
-
-![Prometheus Container Logs](https://raw.githubusercontent.com/Naveen15github/observability-and-monitoring/2116efe6540dfa12b7c56c79b8a15af762a987ce/prometheus-fundamentals/images/Screenshot%20(690).png)
+![Prometheus Container Logs](./images/Screenshot%20(690).png)
 
 ### 4. Prometheus Targets
-
-![Prometheus Targets](https://raw.githubusercontent.com/Naveen15github/observability-and-monitoring/2116efe6540dfa12b7c56c79b8a15af762a987ce/prometheus-fundamentals/images/Screenshot%20(691).png)
+![Prometheus Targets](./images/Screenshot%20(691).png)
 
 ### 5. Docker Containers and Configuration
-
-![Docker Containers and Configuration](https://raw.githubusercontent.com/Naveen15github/observability-and-monitoring/2116efe6540dfa12b7c56c79b8a15af762a987ce/prometheus-fundamentals/images/Screenshot%20(692).png)
+![Docker Containers and Configuration](./images/Screenshot%20(692).png)
 
 ### 6. Healthy Prometheus Targets
-
-![Healthy Prometheus Targets](https://raw.githubusercontent.com/Naveen15github/observability-and-monitoring/2116efe6540dfa12b7c56c79b8a15af762a987ce/prometheus-fundamentals/images/Screenshot%20(693).png)
+![Healthy Prometheus Targets](./images/Screenshot%20(693).png)
 
 ### 7. PromQL Metrics Query
-
-![PromQL Metrics Query](https://raw.githubusercontent.com/Naveen15github/observability-and-monitoring/2116efe6540dfa12b7c56c79b8a15af762a987ce/prometheus-fundamentals/images/Screenshot%20(694).png)
+![PromQL Metrics Query](./images/Screenshot%20(694).png)
 
 ### 8. PromQL Metrics Graph
-
-![PromQL Metrics Graph](https://raw.githubusercontent.com/Naveen15github/observability-and-monitoring/2116efe6540dfa12b7c56c79b8a15af762a987ce/prometheus-fundamentals/images/Screenshot%20(695).png)
+![PromQL Metrics Graph](./images/Screenshot%20(695).png)
 
 ### 9. Additional Monitoring Screenshot
-
-![Additional Monitoring Screenshot](https://raw.githubusercontent.com/Naveen15github/observability-and-monitoring/2116efe6540dfa12b7c56c79b8a15af762a987ce/prometheus-fundamentals/images/Screenshot%20(698).png)
-
+![Additional Monitoring Screenshot](./images/Screenshot%20(698).png)
 ## Project Structure
 
 ```text
