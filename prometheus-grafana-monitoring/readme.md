@@ -107,35 +107,34 @@ An initial Docker socket permission error occurred when running Compose without 
 
 ## Screenshots
 
-### 1. Docker Compose Deployment
+
 
 ![Prometheus and Grafana containers running](images/Screenshot%20%28700%29.png)
 
-### 2. Grafana Test Alert
 
 ![Grafana test alert notification in Slack](images/Screenshot%20%28699%29.png)
 
-### 3. Infrastructure Alert Rules
+
 
 ![Grafana infrastructure alert rules](images/Screenshot%20%28702%29.png)
 
-### 4. CPU Usage Alert in Slack
+
 
 ![High CPU usage alert notification](images/Screenshot%20%28701%29.png)
 
-### 5. Memory Usage Alert in Slack
+
 
 ![High memory usage alert notification](images/Screenshot%20%28703%29.png)
 
-### 6. Disk Usage Alert in Slack
+
 
 ![High disk usage alert notification](images/Screenshot%20%28704%29.png)
 
-### 7. Grafana Monitoring Dashboard
+
 
 ![EC2 Prometheus monitoring dashboard showing CPU memory disk and target health](images/Screenshot%20%28705%29.png)
 
-### 8. System Metrics Dashboard
+
 
 ![Grafana dashboard showing network traffic system load disk I/O and processes](images/Screenshot%20%28706%29.png)
 
