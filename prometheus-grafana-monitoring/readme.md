@@ -106,21 +106,39 @@ Observed both firing and resolved notification messages, demonstrating alert-sta
 An initial Docker socket permission error occurred when running Compose without sufficient privileges. Retrying with `sudo docker compose up -d` allowed the deployment command to proceed.
 
 ## Screenshots
-(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(699).png)
 
-(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(701).png)
+### 1. Docker Compose Deployment
 
-(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(702).png)
+![Prometheus and Grafana containers running](images/Screenshot%20%28700%29.png)
 
-(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(703).png)
+### 2. Grafana Test Alert
 
-(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(704).png)
+![Grafana test alert notification in Slack](images/Screenshot%20%28699%29.png)
 
-(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(705).png)
+### 3. Infrastructure Alert Rules
 
-(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(706).png)
+![Grafana infrastructure alert rules](images/Screenshot%20%28702%29.png)
 
-(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(707).png)
+### 4. CPU Usage Alert in Slack
+
+![High CPU usage alert notification](images/Screenshot%20%28701%29.png)
+
+### 5. Memory Usage Alert in Slack
+
+![High memory usage alert notification](images/Screenshot%20%28703%29.png)
+
+### 6. Disk Usage Alert in Slack
+
+![High disk usage alert notification](images/Screenshot%20%28704%29.png)
+
+### 7. Grafana Monitoring Dashboard
+
+![EC2 Prometheus monitoring dashboard showing CPU memory disk and target health](images/Screenshot%20%28705%29.png)
+
+### 8. System Metrics Dashboard
+
+![Grafana dashboard showing network traffic system load disk I/O and processes](images/Screenshot%20%28706%29.png)
+
 
 ## Key Learnings
 
