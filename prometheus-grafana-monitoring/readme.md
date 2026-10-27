@@ -105,6 +105,23 @@ Observed both firing and resolved notification messages, demonstrating alert-sta
 
 An initial Docker socket permission error occurred when running Compose without sufficient privileges. Retrying with `sudo docker compose up -d` allowed the deployment command to proceed.
 
+## Screenshots
+(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(699).png)
+
+(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(701).png)
+
+(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(702).png)
+
+(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(703).png)
+
+(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(704).png)
+
+(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(705).png)
+
+(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(706).png)
+
+(https://github.com/Naveen15github/observability-and-monitoring/blob/752cd5f3872c6401333f8ec260e2366ea70111aa/prometheus-grafana-monitoring/images/Screenshot%20(707).png)
+
 ## Key Learnings
 
 - Deploying a monitoring stack using Docker Compose.
@@ -120,10 +137,4 @@ An initial Docker socket permission error occurred when running Compose without 
 
 Today's hands-on covered the deployment of Prometheus, Node Exporter, and Grafana on AWS EC2, followed by dashboard inspection, infrastructure alert-rule configuration, and Slack notification verification. The work provided practical exposure to infrastructure monitoring, alerting, and operational visibility.
 
-## Future Improvements
 
-- Add CPU, memory, and disk alert thresholds based on workload requirements.
-- Review evaluation intervals and pending periods for each alert.
-- Add runbooks and troubleshooting instructions to alert annotations.
-- Restrict access to monitoring interfaces and protect credentials.
-- Export dashboard and alert configurations for version control.
