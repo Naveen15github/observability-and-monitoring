@@ -1,5 +1,7 @@
 # Observability & Monitoring - Hands-On
 
+![](https://github.com/Naveen15github/observability-and-monitoring/blob/eab60eea646bc3ec257ddf8dbe490998589e4a9e/Observability%20Tools%20Logo%20Banner.png)
+
 ## Overview
 
 This repository documents my hands-on learning and practical exploration of **Observability and Monitoring** using Prometheus, Grafana, and Datadog.
