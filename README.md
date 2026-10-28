@@ -1,4 +1,4 @@
-# Observability & Monitoring — Hands-On
+# Observability & Monitoring - Hands-On
 
 ## Overview
 
