@@ -45,6 +45,6 @@ Configured or reviewed alert thresholds, evaluation intervals, pending periods, 
 - Test repeated-authentication alert logic safely.
 - Review alert states in Grafana and document the results.
 ## Screenshots
-![]()
-![]()
-![]()
+![](https://github.com/Naveen15github/observability-and-monitoring/blob/c8fce60257763c8a3ff41751b11f31795e727b46/prom-loki-grafana/images/Screenshot%20(708).png)
+![](https://github.com/Naveen15github/observability-and-monitoring/blob/c8fce60257763c8a3ff41751b11f31795e727b46/prom-loki-grafana/images/Screenshot%20(709).png)
+![](https://github.com/Naveen15github/observability-and-monitoring/blob/c8fce60257763c8a3ff41751b11f31795e727b46/prom-loki-grafana/images/Screenshot%20(710).png)
